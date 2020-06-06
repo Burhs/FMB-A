@@ -13,11 +13,11 @@ elif sys.platform == "win32":
 else:
 	os.system("clear")
 API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
-__banner__ = """ |\   /| FMBrhaby - Facebook Multi Brute Force
-  \|_|/  Author: ArHaBy*
-  /. .\  Version: 2.1
- =\_Y_/= Telegram: @rhaby
-  {>o<}  Insta: @iqk56
+__banner__ = """ |\   /| FMB-A - Facebook Multi Brute Force
+  \|_|/  Author: MaThEW*
+  /. .\  Version: 3.0
+ =\_Y_/= Telegram: @rkrkq
+  {>o<}  Insta: @5i.tm
 
 =============================================="""
 print(__banner__)
